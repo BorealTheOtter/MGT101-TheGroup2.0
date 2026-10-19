@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\MGT101-TheGroup2.0\\FinanceTracker\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D11B1E8B-A86A-4899-BA19-F5AF75AAB620}|FinanceTracker\\FinanceTracker.csproj|c:\\neumontclasses\\q5\\csc125-s1 - logical and computational thinking\\mgt101-thegroup2.0\\financetracker\\financetracker\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D11B1E8B-A86A-4899-BA19-F5AF75AAB620}|FinanceTracker\\FinanceTracker.csproj|solutionrelative:financetracker\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,19 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\MainPage.xaml",
-              "RelativeDocumentMoniker": "FinanceTracker\\MainPage.xaml",
-              "ToolTip": "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\MainPage.xaml",
-              "RelativeToolTip": "FinanceTracker\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-19T21:10:13.358Z",
-              "EditorCaption": ""
             }
           ]
         }
