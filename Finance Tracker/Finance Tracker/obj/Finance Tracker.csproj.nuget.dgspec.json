@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\personal finance tracker\\MGT101-TheGroup2.0\\Finance Tracker\\Finance Tracker\\Finance Tracker.csproj": {}
+    "C:\\Coursework\\Q5\\MGT101\\MGT101-TheGroup2.0\\Finance Tracker\\Finance Tracker\\Finance Tracker.csproj": {}
   },
   "projects": {
-    "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\personal finance tracker\\MGT101-TheGroup2.0\\Finance Tracker\\Finance Tracker\\Finance Tracker.csproj": {
+    "C:\\Coursework\\Q5\\MGT101\\MGT101-TheGroup2.0\\Finance Tracker\\Finance Tracker\\Finance Tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\personal finance tracker\\MGT101-TheGroup2.0\\Finance Tracker\\Finance Tracker\\Finance Tracker.csproj",
+        "projectUniqueName": "C:\\Coursework\\Q5\\MGT101\\MGT101-TheGroup2.0\\Finance Tracker\\Finance Tracker\\Finance Tracker.csproj",
         "projectName": "Finance Tracker",
-        "projectPath": "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\personal finance tracker\\MGT101-TheGroup2.0\\Finance Tracker\\Finance Tracker\\Finance Tracker.csproj",
-        "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\personal finance tracker\\MGT101-TheGroup2.0\\Finance Tracker\\Finance Tracker\\obj\\",
+        "projectPath": "C:\\Coursework\\Q5\\MGT101\\MGT101-TheGroup2.0\\Finance Tracker\\Finance Tracker\\Finance Tracker.csproj",
+        "packagesPath": "C:\\Users\\tring\\.nuget\\packages\\",
+        "outputPath": "C:\\Coursework\\Q5\\MGT101\\MGT101-TheGroup2.0\\Finance Tracker\\Finance Tracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tring\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
