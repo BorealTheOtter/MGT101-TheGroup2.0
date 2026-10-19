@@ -1,0 +1,16 @@
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\bin\Debug\net10.0\Finance Tracker.exe
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\bin\Debug\net10.0\Finance Tracker.deps.json
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\bin\Debug\net10.0\Finance Tracker.runtimeconfig.json
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\bin\Debug\net10.0\Finance Tracker.dll
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\bin\Debug\net10.0\Finance Tracker.pdb
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\obj\Debug\net10.0\Finance Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\obj\Debug\net10.0\Finance Tracker.AssemblyInfoInputs.cache
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\obj\Debug\net10.0\Finance Tracker.AssemblyInfo.cs
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\obj\Debug\net10.0\Finance Tracker.csproj.CoreCompileInputs.cache
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\obj\Debug\net10.0\Finance Tracker.sourcelink.json
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\obj\Debug\net10.0\Finance Tracker.dll
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\obj\Debug\net10.0\refint\Finance Tracker.dll
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\obj\Debug\net10.0\Finance Tracker.pdb
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\obj\Debug\net10.0\Finance Tracker.genruntimeconfig.cache
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\obj\Debug\net10.0\ref\Finance Tracker.dll
+C:\NeumontClasses\Q5\CSC125-S1 - Logical and Computational Thinking\personal finance tracker\MGT101-TheGroup2.0\Finance Tracker\Finance Tracker\obj\Debug\net10.0\Finance .45D6141C.Up2Date
