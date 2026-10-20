@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\MGT101-TheGroup2.0\\FinanceTracker\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3225F538-560B-46FD-9248-A5F0BA2DC319}|FinanceTracker\\FinanceTracker.csproj|c:\\neumontclasses\\q5\\csc125-s1 - logical and computational thinking\\mgt101-thegroup2.0\\financetracker\\financetracker\\financetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3225F538-560B-46FD-9248-A5F0BA2DC319}|FinanceTracker\\FinanceTracker.csproj|solutionrelative:financetracker\\financetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinanceTracker",
+              "DocumentMoniker": "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\FinanceTracker.csproj",
+              "RelativeDocumentMoniker": "FinanceTracker\\FinanceTracker.csproj",
+              "ToolTip": "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\FinanceTracker.csproj",
+              "RelativeToolTip": "FinanceTracker\\FinanceTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-20T20:55:47.654Z",
+              "EditorCaption": ""
             }
           ]
         }
