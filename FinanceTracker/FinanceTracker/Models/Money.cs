@@ -7,7 +7,7 @@ namespace FinanceTracker.Models
     internal class Money
     {
         public List<TransactionHistory> History { get; private set; }
-        public decimal Balance { get; private set {
+        public decimal Balance { get; internal set {
                 if(field - value < 0)
                 {
                     throw new ArgumentException("Balance cannot be negative");
