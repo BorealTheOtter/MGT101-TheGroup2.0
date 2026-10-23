@@ -5001,11 +5001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\FinanceTracker.csproj",
+      "projectUniqueName": "C:\\NeumontClasses\\Q5\\MGT101-S1 - Introduction to Project Management\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\FinanceTracker.csproj",
       "projectName": "FinanceTracker",
-      "projectPath": "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\FinanceTracker.csproj",
+      "projectPath": "C:\\NeumontClasses\\Q5\\MGT101-S1 - Introduction to Project Management\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\FinanceTracker.csproj",
       "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\NeumontClasses\\Q5\\CSC125-S1 - Logical and Computational Thinking\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\obj\\",
+      "outputPath": "C:\\NeumontClasses\\Q5\\MGT101-S1 - Introduction to Project Management\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

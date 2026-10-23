@@ -44,10 +44,21 @@ namespace FinanceTracker
             encryptionService = new EncryptionService(inputPassword);
 
             string importString = File.ReadAllText("transactions.txt");
-
-            string decryptedJson = encryptionService.Decrypt(importString);
+            string decryptedJson = null;
+            try
+            {
+                decryptedJson = encryptionService.Decrypt(importString);
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Error decrypting transactions: {ex.Message}");
+                await DisplayAlert("Error", "Failed to decrypt transactions. Please check your password.", "OK");
+                await Initialize();
+                return;
+            }
 
             money = JsonSerializer.Deserialize<Money>(decryptedJson) ?? new Money();
+
         }
         private void Save_Clicked(object sender, EventArgs e)
         {
@@ -57,6 +68,11 @@ namespace FinanceTracker
         }
 
         private void NewTransaction_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void NewTransaction_Done()
         {
 
         }
