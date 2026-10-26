@@ -76,7 +76,7 @@
 	  <MauiXaml Update="Views\PasswordPopup.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Views\TransactionItemView.xaml">
+	  <MauiXaml Update="ViewModels\TransactionItemView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

@@ -81,6 +81,16 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
+[C:/NeumontClasses/Q5/MGT101-S1 - Introduction to Project Management/MGT101-TheGroup2.0/FinanceTracker/FinanceTracker/ViewModels/TransactionItemView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FinanceTracker.ViewModels.TransactionItemView.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewModels\TransactionItemView.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewModels\TransactionItemView.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
 [C:/NeumontClasses/Q5/MGT101-S1 - Introduction to Project Management/MGT101-TheGroup2.0/FinanceTracker/FinanceTracker/Views/MoneyAndTransactionView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FinanceTracker.Views.MoneyAndTransactionView.xaml
@@ -106,16 +116,6 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FinanceTracker.Views.PasswordPopup.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\PasswordPopup.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\PasswordPopup.xaml
-build_metadata.AdditionalFiles.Inflator = SourceGen
-build_metadata.AdditionalFiles.NoWarn = 
-build_metadata.AdditionalFiles.EnableDiagnostics = 
-build_metadata.AdditionalFiles.LineInfo = 
-
-[C:/NeumontClasses/Q5/MGT101-S1 - Introduction to Project Management/MGT101-TheGroup2.0/FinanceTracker/FinanceTracker/Views/TransactionItemView.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = FinanceTracker.Views.TransactionItemView.xaml
-build_metadata.AdditionalFiles.TargetPath = Views\TransactionItemView.xaml
-build_metadata.AdditionalFiles.RelativePath = Views\TransactionItemView.xaml
 build_metadata.AdditionalFiles.Inflator = SourceGen
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
