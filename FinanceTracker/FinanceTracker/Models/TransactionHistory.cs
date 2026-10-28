@@ -6,12 +6,17 @@ namespace FinanceTracker.Models
 {
     public struct TransactionHistory
     {
-        public TransactionHistory(decimal amount, string description)
+        public TransactionHistory(decimal amount, decimal oldBalance,decimal newBalance, string description)
         {
-            Amount = amount;
-            Description = description;
+            this.amount = amount;
+            this.Description = description;
+            this.oldBalance = oldBalance;
+            this.newBalanace = newBalance;
         }
-        public decimal Amount { get; set; }
+
+        public readonly decimal amount;
+        public readonly decimal oldBalance;
+        public readonly decimal newBalanace;
         public string Description { get; set; }
     }
 }
