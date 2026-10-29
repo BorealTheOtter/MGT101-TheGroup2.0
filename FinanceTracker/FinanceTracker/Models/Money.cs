@@ -18,8 +18,8 @@ namespace FinanceTracker.Models
 
         public void DoTransaction(decimal amount, string description)
         {
+            History.Add(new TransactionHistory(amount, Balance, Balance + amount, description));
             Balance += amount;
-            History.Add(new TransactionHistory(amount, description));
         }
     }
 }
