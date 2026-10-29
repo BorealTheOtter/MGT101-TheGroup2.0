@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FinanceTracker.Models
 {
-    internal class Money
+    public class Money
     {
         public List<TransactionHistory> History { get; private set; }
         public decimal Balance { get; internal set {
