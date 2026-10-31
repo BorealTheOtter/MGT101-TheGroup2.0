@@ -6,18 +6,12 @@ namespace FinanceTracker.Models
 {
     public class Money
     {
-        public List<TransactionHistory> History { get; private set; }
-        public decimal Balance { get; internal set {
-                if(field - value < 0)
-                {
-                    throw new ArgumentException("Balance cannot be negative");
-                }
-                field = value;
-            }
-        }
+        public List<TransactionHistory> History { get; set; }
+        public decimal Balance { get; set;}
 
         public void DoTransaction(decimal amount, string description)
         {
+            if (History == null)  History = new List<TransactionHistory>();
             History.Add(new TransactionHistory(amount, Balance, Balance + amount, description));
             Balance += amount;
         }

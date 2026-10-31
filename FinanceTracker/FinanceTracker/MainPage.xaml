@@ -8,9 +8,9 @@
             <Button Text="Save" Clicked="Save_Clicked"/>
             <Button Text="New Transaction" Clicked="NewTransaction_Clicked"/>
         </HorizontalStackLayout>
-        <ScrollView Grid.Row="1">
+        <HorizontalStackLayout x:Name="box" Grid.Row="1">
             
-        </ScrollView>
+        </HorizontalStackLayout>
     </Grid>
 
 </ContentPage>

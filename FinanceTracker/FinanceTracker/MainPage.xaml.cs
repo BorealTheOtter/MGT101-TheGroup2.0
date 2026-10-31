@@ -3,6 +3,7 @@ using CommunityToolkit.Maui.Extensions;
 using Crypta_2._0.Models;
 using Crypta_2._0.Views;
 using FinanceTracker.Models;
+using FinanceTracker.Views;
 using System.Diagnostics;
 using System.Reflection.PortableExecutable;
 using System.Speech.Synthesis;
@@ -27,7 +28,7 @@ namespace FinanceTracker
         {
             string inputPassword = null;
 
-            if(!File.Exists("transactions.txt"))
+            if (!File.Exists("../transactions.txt"))
             {
                 inputPassword = await RequestNewPasswordForList();
             }
@@ -37,13 +38,15 @@ namespace FinanceTracker
                 if (inputPassword == null)
                 {
                     Debug.WriteLine("Password was null, aborting load");
+                    await DisplayAlert("Error", "Please input a password.", "OK");
+                    await Initialize();
                     return;
                 }
             }
 
             encryptionService = new EncryptionService(inputPassword);
 
-            string importString = File.ReadAllText("transactions.txt");
+            string importString = File.ReadAllText("../transactions.txt");
             string decryptedJson = null;
             try
             {
@@ -59,22 +62,27 @@ namespace FinanceTracker
 
             money = JsonSerializer.Deserialize<Money>(decryptedJson) ?? new Money();
 
+            box.Children.Add(new MoneyAndTransactionView(money));
         }
         private void Save_Clicked(object sender, EventArgs e)
         {
             string initialJson = JsonSerializer.Serialize(money);
             string encryptedJson = encryptionService.Encrypt(initialJson);
-            File.WriteAllText("transactions.txt", encryptedJson);
+            File.WriteAllText("../transactions.txt", encryptedJson);
         }
 
         private void NewTransaction_Clicked(object sender, EventArgs e)
         {
-
+            box.Children.Clear();
+            var transactionView = new NewTransactionView(this);
+            box.Children.Add(transactionView);
         }
 
-        private void NewTransaction_Done()
+        internal void NewTransaction_Done(decimal amount, string desc)
         {
-
+            if(amount != 0) money.DoTransaction(amount, desc);
+            box.Children.Clear();
+            box.Children.Add(new MoneyAndTransactionView(money));
         }
 
         private async Task<string> RequestPassword()

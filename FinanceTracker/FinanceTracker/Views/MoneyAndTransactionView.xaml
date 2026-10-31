@@ -3,9 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="FinanceTracker.Views.MoneyAndTransactionView">
     <Grid>
-        <Label Text="{Binding MoneyAmount}" />
-        <ScrollView>
-
+        <Label Text="{Binding Balance, StringFormat='Balance: {0}'}" />
+        <ScrollView x:Name="TransactionHistoryoHlder">
+            
         </ScrollView>
     </Grid>
 </ContentView>
