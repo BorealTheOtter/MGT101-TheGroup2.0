@@ -5,7 +5,7 @@
     <Grid>
         <Label Text="{Binding MoneyAmount}" />
         <ScrollView>
-            
+
         </ScrollView>
     </Grid>
 </ContentView>

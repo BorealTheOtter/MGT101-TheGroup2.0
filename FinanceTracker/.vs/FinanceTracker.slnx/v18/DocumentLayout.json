@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\NeumontClasses\\Q5\\MGT101-S1 - Introduction to Project Management\\MGT101-TheGroup2.0\\FinanceTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|c:\\neumontclasses\\q5\\mgt101-s1 - introduction to project management\\mgt101-thegroup2.0\\financetracker\\financetracker\\views\\moneyandtransactionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|solutionrelative:financetracker\\views\\moneyandtransactionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|c:\\neumontclasses\\q5\\mgt101-s1 - introduction to project management\\mgt101-thegroup2.0\\financetracker\\financetracker\\viewmodels\\transactionitemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|solutionrelative:financetracker\\viewmodels\\transactionitemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|c:\\neumontclasses\\q5\\mgt101-s1 - introduction to project management\\mgt101-thegroup2.0\\financetracker\\financetracker\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|solutionrelative:financetracker\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|c:\\neumontclasses\\q5\\mgt101-s1 - introduction to project management\\mgt101-thegroup2.0\\financetracker\\financetracker\\views\\moneyandtransactionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|solutionrelative:financetracker\\views\\moneyandtransactionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|c:\\neumontclasses\\q5\\mgt101-s1 - introduction to project management\\mgt101-thegroup2.0\\financetracker\\financetracker\\viewmodels\\transactionitemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|solutionrelative:financetracker\\viewmodels\\transactionitemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|c:\\neumontclasses\\q5\\mgt101-s1 - introduction to project management\\mgt101-thegroup2.0\\financetracker\\financetracker\\viewmodels\\transactionitemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|solutionrelative:financetracker\\viewmodels\\transactionitemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|c:\\neumontclasses\\q5\\mgt101-s1 - introduction to project management\\mgt101-thegroup2.0\\financetracker\\financetracker\\views\\moneyandtransactionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|solutionrelative:financetracker\\views\\moneyandtransactionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|c:\\neumontclasses\\q5\\mgt101-s1 - introduction to project management\\mgt101-thegroup2.0\\financetracker\\financetracker\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|solutionrelative:financetracker\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{035291ED-96CE-D287-A03B-DBA1759FE681}|FinanceTracker\\FinanceTracker.csproj|c:\\neumontclasses\\q5\\mgt101-s1 - introduction to project management\\mgt101-thegroup2.0\\financetracker\\financetracker\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,12 +54,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MoneyAndTransactionView.xaml.cs",
               "DocumentMoniker": "C:\\NeumontClasses\\Q5\\MGT101-S1 - Introduction to Project Management\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\Views\\MoneyAndTransactionView.xaml.cs",
               "RelativeDocumentMoniker": "FinanceTracker\\Views\\MoneyAndTransactionView.xaml.cs",
-              "ToolTip": "C:\\NeumontClasses\\Q5\\MGT101-S1 - Introduction to Project Management\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\Views\\MoneyAndTransactionView.xaml.cs*",
-              "RelativeToolTip": "FinanceTracker\\Views\\MoneyAndTransactionView.xaml.cs*",
+              "ToolTip": "C:\\NeumontClasses\\Q5\\MGT101-S1 - Introduction to Project Management\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\Views\\MoneyAndTransactionView.xaml.cs",
+              "RelativeToolTip": "FinanceTracker\\Views\\MoneyAndTransactionView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-29T22:59:05.48Z",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TransactionItemView.xaml.cs",
               "DocumentMoniker": "C:\\NeumontClasses\\Q5\\MGT101-S1 - Introduction to Project Management\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\ViewModels\\TransactionItemView.xaml.cs",
               "RelativeDocumentMoniker": "FinanceTracker\\ViewModels\\TransactionItemView.xaml.cs",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "TransactionItemView.xaml",
               "DocumentMoniker": "C:\\NeumontClasses\\Q5\\MGT101-S1 - Introduction to Project Management\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\ViewModels\\TransactionItemView.xaml",
               "RelativeDocumentMoniker": "FinanceTracker\\ViewModels\\TransactionItemView.xaml",
@@ -88,23 +88,25 @@
               "RelativeToolTip": "FinanceTracker\\ViewModels\\TransactionItemView.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-26T17:11:11.009Z"
+              "WhenOpened": "2026-10-26T17:11:11.009Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MoneyAndTransactionView.xaml",
               "DocumentMoniker": "C:\\NeumontClasses\\Q5\\MGT101-S1 - Introduction to Project Management\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\Views\\MoneyAndTransactionView.xaml",
               "RelativeDocumentMoniker": "FinanceTracker\\Views\\MoneyAndTransactionView.xaml",
               "ToolTip": "C:\\NeumontClasses\\Q5\\MGT101-S1 - Introduction to Project Management\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\Views\\MoneyAndTransactionView.xaml",
               "RelativeToolTip": "FinanceTracker\\Views\\MoneyAndTransactionView.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-23T15:28:06.381Z"
+              "WhenOpened": "2026-10-23T15:28:06.381Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\NeumontClasses\\Q5\\MGT101-S1 - Introduction to Project Management\\MGT101-TheGroup2.0\\FinanceTracker\\FinanceTracker\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "FinanceTracker\\MainPage.xaml.cs",
