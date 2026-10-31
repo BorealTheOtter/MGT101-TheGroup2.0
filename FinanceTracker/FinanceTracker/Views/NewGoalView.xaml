@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FinanceTracker.Views.NewGoalView">
+    <Grid RowDefinitions="auto, auto, auto, auto" ColumnDefinitions="100,*">
+        <Label Text="Goal Description"/>
+        <Entry x:Name="Desc" Grid.Column="1"/>
+
+        <Label Text="Day Interval" Grid.Row="1"/>
+        <Entry x:Name="Interval" Grid.Row="1" Grid.Column="1"/>
+
+        <Label Text="Amount" Grid.Row="2"/>
+        <Entry x:Name="Amount" Grid.Row="2" Grid.Column="1"/>
+
+        <Button Text="Done" Clicked="Button_Clicked" Grid.Row="3" Grid.Column="1"/>
+    </Grid>
+</ContentView>

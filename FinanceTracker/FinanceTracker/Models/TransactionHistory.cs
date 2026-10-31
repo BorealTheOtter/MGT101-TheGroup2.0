@@ -8,15 +8,15 @@ namespace FinanceTracker.Models
     {
         public TransactionHistory(decimal amount, decimal oldBalance,decimal newBalance, string description)
         {
-            this.amount = amount;
+            this.Amount = amount;
             this.Description = description;
-            this.oldBalance = oldBalance;
-            this.newBalanace = newBalance;
+            this.PreviousBalance = oldBalance;
+            this.NewAmount = newBalance;
         }
 
-        public readonly decimal amount;
-        public readonly decimal oldBalance;
-        public readonly decimal newBalanace;
+        public decimal Amount { get; set; }
+        public decimal PreviousBalance { get; set; }
+        public decimal NewAmount { get; set; }
         public string Description { get; set; }
     }
 }

@@ -2,21 +2,25 @@
 <ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="FinanceTracker.Views.TransactionItemView">
-    <Grid ColumnDefinitions="300, 300, 300, *">
+    <Grid ColumnDefinitions="150, 150, 150, *" Padding="10, 10, 10, 10" Margin="10, 10, 10, 10">
         <VerticalStackLayout Grid.Column="0">
             <Label Text="Amount"/>
+            <Label Text="{Binding Amount}"/>
             
         </VerticalStackLayout>
         <VerticalStackLayout Grid.Column="1">
             <Label Text="Previous Balance"/>
+            <Label Text="{Binding PreviousBalance}"/>
             
         </VerticalStackLayout>
         <VerticalStackLayout Grid.Column="2">
             <Label Text="New Amount"/>
+            <Label Text="{Binding NewAmount}"/>
             
         </VerticalStackLayout>
         <VerticalStackLayout Grid.Column="3">
             <Label Text="Description"/>
+            <Label Text="{Binding Description}"/>
             
         </VerticalStackLayout>
     </Grid>

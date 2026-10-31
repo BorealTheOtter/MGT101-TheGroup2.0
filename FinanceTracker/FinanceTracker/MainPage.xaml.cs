@@ -114,5 +114,19 @@ namespace FinanceTracker
 
             return result.Result;
         }
+
+        private void NewGoal_Clicked(object sender, EventArgs e)
+        {
+            box.Children.Clear();
+            var goalView = new NewGoalView(this);
+            box.Children.Add(goalView);
+        }
+
+        public void NewGoal_Done(string desc, int interval, decimal amount)
+        {
+            if (interval < 0) money.Goals.Add(new Goal(desc, amount, interval, false));
+            box.Children.Clear();
+            box.Children.Add(new MoneyAndTransactionView(money));
+        }
     }
 }
