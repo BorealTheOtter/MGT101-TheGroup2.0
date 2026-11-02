@@ -25,7 +25,7 @@ public partial class NewGoalView : ContentView
 
 		int interval;
 		success = int.TryParse(Interval.Text, out interval);
-		if(!success || interval > 1)
+		if(!success || interval < 1)
 		{
             Debug.WriteLine("Not a valid number, aborting");
             mainPage.DisplayAlert("Error", "Please input a valid whole number above 0", "OK");

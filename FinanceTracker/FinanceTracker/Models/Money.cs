@@ -17,5 +17,11 @@ namespace FinanceTracker.Models
             History.Add(new TransactionHistory(amount, Balance, Balance + amount, description));
             Balance += amount;
         }
+
+        public void AddGoal(string desc, decimal amount, int interval)
+        {
+            if(Goals == null) Goals = new ObservableCollection<Goal>();
+            if (interval > 0) Goals.Add(new Goal(desc, amount, interval, false));
+        }
     }
 }

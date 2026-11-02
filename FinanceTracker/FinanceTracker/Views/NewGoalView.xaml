@@ -2,9 +2,9 @@
 <ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="FinanceTracker.Views.NewGoalView">
-    <Grid RowDefinitions="auto, auto, auto, auto" ColumnDefinitions="100,*">
+    <Grid RowDefinitions="auto, auto, auto, auto" ColumnDefinitions="100,500">
         <Label Text="Goal Description"/>
-        <Entry x:Name="Desc" Grid.Column="1"/>
+        <Entry x:Name="Desc" Grid.Column="1" />
 
         <Label Text="Day Interval" Grid.Row="1"/>
         <Entry x:Name="Interval" Grid.Row="1" Grid.Column="1"/>

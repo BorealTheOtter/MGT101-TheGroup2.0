@@ -10,4 +10,9 @@ public partial class GoalItemView : ContentView
 		InitializeComponent();
 		BindingContext = goal;
     }
+
+    private void DeleteButton_Clicked(object sender, EventArgs e)
+    {
+        //TODO: Handle delete button click event
+    }
 }

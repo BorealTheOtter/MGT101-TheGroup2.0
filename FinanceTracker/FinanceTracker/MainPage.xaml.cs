@@ -124,7 +124,7 @@ namespace FinanceTracker
 
         public void NewGoal_Done(string desc, int interval, decimal amount)
         {
-            if (interval < 0) money.Goals.Add(new Goal(desc, amount, interval, false));
+            money.AddGoal(desc, amount, interval);
             box.Children.Clear();
             box.Children.Add(new MoneyAndTransactionView(money));
         }
