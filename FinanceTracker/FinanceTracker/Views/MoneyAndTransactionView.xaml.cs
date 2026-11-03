@@ -9,14 +9,20 @@ public partial class MoneyAndTransactionView : ContentView
 		InitializeComponent();
 		BindingContext = money;
 
-        for (int i = money.History.Count - 1; i >= 0; i--)
+        if(money.History != null)
         {
-            TransactionHistoryHolder.Children.Add(new TransactionItemView(money.History[i]));
+            for (int i = money.History.Count - 1; i >= 0; i--)
+            {
+                TransactionHistoryHolder.Children.Add(new TransactionItemView(money.History[i]));
+            }
         }
 
-        for (int i = money.Goals.Count - 1; i >= 0; i--)
+        if(money.Goals != null)
         {
-            GoalHolder.Children.Add(new GoalItemView(money.Goals[i], money, this));
+            for (int i = money.Goals.Count - 1; i >= 0; i--)
+            {
+                GoalHolder.Children.Add(new GoalItemView(money.Goals[i], money, this));
+            }
         }
     }
 
