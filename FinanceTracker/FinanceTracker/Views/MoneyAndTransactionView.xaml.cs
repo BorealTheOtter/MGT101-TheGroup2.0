@@ -9,17 +9,19 @@ public partial class MoneyAndTransactionView : ContentView
 		InitializeComponent();
 		BindingContext = money;
 
-        foreach (TransactionHistory transaction in money.History)
+        for (int i = money.History.Count - 1; i >= 0; i--)
         {
-            TransactionHistoryHolder.Children.Add(new TransactionItemView(transaction));
+            TransactionHistoryHolder.Children.Add(new TransactionItemView(money.History[i]));
         }
 
-        if(money.Goals != null)
+        for (int i = money.Goals.Count - 1; i >= 0; i--)
         {
-            foreach (Goal goal in money.Goals)
-            {
-                GoalHolder.Children.Add(new GoalItemView(goal));
-            }
+            GoalHolder.Children.Add(new GoalItemView(money.Goals[i], money, this));
         }
+    }
+
+    public async Task DeleteGoalVisual(GoalItemView goal)
+    {
+        GoalHolder.Children.Remove(goal);
     }
 }

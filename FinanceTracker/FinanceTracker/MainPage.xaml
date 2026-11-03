@@ -6,7 +6,7 @@
     <Grid RowDefinitions="50, *">
         <HorizontalStackLayout>
             <Button Text="Save" Clicked="Save_Clicked"/>
-            <Button Text="New Transaction" Clicked="NewTransaction_Clicked"/>
+            <Button Text="Simulate new Transaction" Clicked="NewTransaction_Clicked"/>
             <Button Text="New Goal" Clicked="NewGoal_Clicked"/>
         </HorizontalStackLayout>
         <HorizontalStackLayout x:Name="box" Grid.Row="1">

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FinanceTracker.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Text;
@@ -22,6 +23,11 @@ namespace FinanceTracker.Models
         {
             if(Goals == null) Goals = new ObservableCollection<Goal>();
             if (interval > 0) Goals.Add(new Goal(desc, amount, interval, false));
+        }
+
+        public async Task DeleteGoal(Goal goal)
+        {
+            Goals.Remove(goal);
         }
     }
 }
